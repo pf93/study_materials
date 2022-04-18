@@ -1,1 +1,24 @@
+1:slice
+https://segmentfault.com/a/1190000022124534
+https://blog.csdn.net/lengyuezuixue/article/details/81197691
+https://zhuanlan.zhihu.com/p/61121325
 
+2:map
+https://zhuanlan.zhihu.com/p/273666774
+https://blog.csdn.net/u010853261/article/details/99699350
+
+3:memory allocation
+https://segmentfault.com/a/1190000020338427
+https://mp.weixin.qq.com/s/3gGbJaeuvx4klqcv34hmmw
+https://juejin.cn/post/6844903795739082760
+https://tonybai.com/2020/02/20/a-visual-guide-to-golang-memory-allocator-from-ground-up/
+https://www.pengrl.com/p/38720/
+//golang内存泄漏问题定位 https://www.hitzhangjie.pro/blog/2021-04-14-go%E7%A8%8B%E5%BA%8F%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E9%97%AE%E9%A2%98%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D/
+https://codeantenna.com/a/pGHAqGgody
+
+4:IO multiplex
+https://www.luozhiyun.com/archives/439
+
+5:GMP scheduler
+https://learnku.com/articles/41728
+https://strikefreedom.top/high-performance-implementation-of-goroutine-pool
