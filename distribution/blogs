@@ -9,3 +9,7 @@ http://www.xiaojieboshi.com/redis/Redis%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%B9%E6%A
 //raft论文中文版
 https://mp.weixin.qq.com/s?__biz=MzIzODYwNDI0NA==&mid=2247483691&idx=1&sn=2362f5f2eb53565351f81ae9527a49f9
 https://www.modb.pro/db/51815（深入剖析共识性算法 Raft）
+
+3: distributed cache
+//golang版redis 
+https://github.com/HDT3213/godis
