@@ -22,14 +22,22 @@ https://www.pengrl.com/p/38720/
 //golang内存泄漏问题定位 https://www.hitzhangjie.pro/blog/2021-04-14-go%E7%A8%8B%E5%BA%8F%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E9%97%AE%E9%A2%98%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D/
 https://codeantenna.com/a/pGHAqGgody
 
-6:IO multiplex
+6:memory align
+https://segmentfault.com/a/1190000040528007
+https://geektutu.com/post/hpg-struct-alignment.html
+
+7:IO multiplex
 https://www.luozhiyun.com/archives/439
 
-7:GMP scheduler
+8:GMP scheduler
 https://learnku.com/articles/41728
 https://strikefreedom.top/high-performance-implementation-of-goroutine-pool
 
-8：GC
+9：GC
 https://zhuanlan.zhihu.com/p/297177002
 https://segmentfault.com/a/1190000022030353
 https://golang.design/go-questions/memgc/principal/
+
+10: golang逃逸分析
+https://zhuanlan.zhihu.com/p/91559562
+https://geektutu.com/post/hpg-escape-analysis.html
