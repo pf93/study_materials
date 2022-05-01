@@ -1,2 +1,7 @@
 1: 缓存穿透，缓存击穿和缓存雪崩
 https://cloud.tencent.com/developer/article/1824584
+
+2: redis和mysql数据一致性
+https://www.cnblogs.com/crazymakercircle/p/14853622.html
+https://www.51cto.com/article/685694.html
+https://zhuanlan.zhihu.com/p/59167071
