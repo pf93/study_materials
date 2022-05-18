@@ -43,6 +43,10 @@ https://www.luozhiyun.com/archives/439
 8:GMP scheduler
 https://learnku.com/articles/41728
 https://strikefreedom.top/high-performance-implementation-of-goroutine-pool
+//gmp调度
+https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi
+//golang work stealing机制
+https://xie.infoq.cn/article/c8459d5d956474f79d1831a8c
 
 9：GC
 https://zhuanlan.zhihu.com/p/297177002
@@ -52,3 +56,6 @@ https://golang.design/go-questions/memgc/principal/
 10: golang逃逸分析
 https://zhuanlan.zhihu.com/p/91559562
 https://geektutu.com/post/hpg-escape-analysis.html
+
+11: golang启动过程
+https://www.altoros.com/blog/golang-internals-part-6-bootstrapping-and-memory-allocator-initialization/
