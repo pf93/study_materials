@@ -10,3 +10,15 @@ https://www.jb51.net/article/157063.htm
 
 3: Innodb为何采用b+树构建索引
 https://cloud.tencent.com/developer/article/1543335
+https://swsmile.info/post/why-db-index-use-b-tree/
+https://blog.csdn.net/xlgen157387/article/details/79450295
+https://www.cnblogs.com/liaowenhui/p/14806749.html
+
+LSM树
+https://zhuanlan.zhihu.com/p/181498475
+https://juejin.cn/post/6844903863758094343
+
+红黑树
+https://www.jianshu.com/p/e136ec79235c
+https://www.cnblogs.com/skywang12345/p/3245399.html
+https://cloud.tencent.com/developer/news/542994
