@@ -59,3 +59,8 @@ https://geektutu.com/post/hpg-escape-analysis.html
 
 11: golang启动过程
 https://www.altoros.com/blog/golang-internals-part-6-bootstrapping-and-memory-allocator-initialization/
+
+12: goroutine泄漏
+https://segmentfault.com/a/1190000040161853
+https://hoverzheng.github.io/post/technology-blog/go/goroutine-leak%E5%92%8C%E8%A7%A3%E5%86%B3%E4%B9%8B%E9%81%93/
+https://codeantenna.com/a/Q47HvbRdRm
