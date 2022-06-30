@@ -12,3 +12,6 @@ https://juejin.cn/post/7094237187343908900 （Redis 面霸绝杀：连环五十�
 4: redis6.0多线程设计
 https://segmentfault.com/a/1190000040376111
 http://dockone.io/article/1819528
+
+5: redis持久化
+https://pdai.tech/md/db/nosql-redis/db-redis-x-rdb-aof.html
