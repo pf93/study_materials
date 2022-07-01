@@ -14,11 +14,14 @@ https://swsmile.info/post/why-db-index-use-b-tree/
 https://blog.csdn.net/xlgen157387/article/details/79450295
 https://www.cnblogs.com/liaowenhui/p/14806749.html
 
-LSM树
+4:LSM树
 https://zhuanlan.zhihu.com/p/181498475
 https://juejin.cn/post/6844903863758094343
 
-红黑树
+5:红黑树
 https://www.jianshu.com/p/e136ec79235c
 https://www.cnblogs.com/skywang12345/p/3245399.html
 https://cloud.tencent.com/developer/news/542994
+
+6:select count()原理
+https://www.51cto.com/article/712769.html
