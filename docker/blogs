@@ -2,9 +2,26 @@
 //namespace
 https://coolshell.cn/articles/17010.html
 https://segmentfault.com/a/1190000016357628
-//linux namespace系列：namespace概述
-https://segmentfault.com/a/1190000006908272
+https://www.infoq.cn/article/docker-kernel-knowledge-namespace-resource-isolation
+//linux namespace和cgroup
+https://segmentfault.com/a/1190000009732550
 //network namespace
 https://www.zhaohuabing.com/post/2020-03-12-linux-network-virtualization/
+https://www.qikqiak.com/post/learn-linux-net-namespace/
 //namespace和cgroup
 https://cloud.tencent.com/developer/article/1437437
+
+//cgroup
+https://tech.meituan.com/2015/03/31/cgroups.html
+https://juejin.cn/post/6844904079076884493
+https://fafucoder.github.io/2021/08/24/linux-cgroup/
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/ch01
+
+//docker镜像
+https://www.crblog.cc/docker/_book/chapter1/07%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E5%AE%B9%E5%99%A8%E9%95%9C%E5%83%8F.html
+https://segmentfault.com/a/1190000023058135
+//docker文件系统
+https://www.cnblogs.com/FengZeng666/p/14173791.html
+//overlay文件系统
+https://www.cnblogs.com/wdliu/p/10483252.html
+https://docs.docker.com/storage/storagedriver/
