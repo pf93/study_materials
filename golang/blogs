@@ -77,3 +77,11 @@ https://www.hitzhangjie.pro/blog/2021-04-14-go%E7%A8%8B%E5%BA%8F%E5%86%85%E5%AD%
 
 14: goroutine交替打印abc
 https://blog.csdn.net/xingyu97/article/details/121630244
+
+15: go struct是否能比价
+https://juejin.cn/post/6881912621616857102
+https://segmentfault.com/a/1190000040099215
+
+16: struct,interface最佳实践
+https://liujiacai.net/blog/2020/03/14/go-struct-interface/
+
