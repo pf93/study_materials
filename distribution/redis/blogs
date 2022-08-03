@@ -22,3 +22,6 @@ https://www.laoyu.site/2020/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5/redis/Redis%E6%
 
 7：redis master_replid
 https://www.jianshu.com/p/5034826dd6b4
+
+8：基于redis实现延迟队列
+https://segmentfault.com/a/1190000022027194
