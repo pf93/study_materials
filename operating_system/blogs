@@ -8,3 +8,10 @@ https://cloud.tencent.com/developer/article/1768025
 2：进程栈，线程栈，中断栈和内核栈
 https://cloud.tencent.com/developer/article/1884141
 https://blog.csdn.net/freeelinux/article/details/53782986
+
+3: 用户态和内核态
+https://segmentfault.com/a/1190000039774784
+
+4: 零拷贝技术
+https://zhuanlan.zhihu.com/p/83398714
+https://www.cnblogs.com/xiaolincoding/p/13719610.html
