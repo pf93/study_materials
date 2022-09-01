@@ -1,0 +1,40 @@
+1: 缓存穿透，缓存击穿和缓存雪崩
+https://segmentfault.com/a/1190000039688578
+https://m.imooc.com/article/320460
+https://www.jianshu.com/p/40b237a5c73e
+
+2: redis和mysql数据一致性
+https://www.cnblogs.com/crazymakercircle/p/14853622.html
+https://www.51cto.com/article/685694.html
+https://zhuanlan.zhihu.com/p/59167071
+
+3: redis知识点总结
+https://juejin.cn/post/7094237187343908900 （Redis 面霸绝杀：连环五十二问！三万字 + 八十图详解！）
+
+4: redis6.0多线程设计
+https://segmentfault.com/a/1190000040376111
+http://dockone.io/article/1819528
+
+5: redis持久化
+https://pdai.tech/md/db/nosql-redis/db-redis-x-rdb-aof.html
+
+6: redis qucikList数据结构
+https://www.jianshu.com/p/2f629f35a210
+https://www.laoyu.site/2020/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5/redis/Redis%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E2%80%94%E2%80%94quicklist/
+
+7：redis master_replid
+https://www.jianshu.com/p/5034826dd6b4
+
+8：基于redis实现延迟队列
+https://segmentfault.com/a/1190000022027194
+https://www.361shipin.com/blog/1512984054721413120
+https://juejin.cn/post/6844903817713025032
+https://blog.tongjilab.cn/posts/43502be6/
+
+9：redis实现分布式锁
+https://www.cnblogs.com/wangyingshuo/p/14510524.html
+https://xiaomi-info.github.io/2019/12/17/redis-distributed-lock/
+redis自动续期
+https://z.itpub.net/article/detail/BEE8B16481D16C3E2B2565461ACA66D5
+redlock
+https://www.cnblogs.com/zh-ch/p/12837292.html
