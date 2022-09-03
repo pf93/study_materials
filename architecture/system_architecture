@@ -1,0 +1,11 @@
+1: elk架构优化和改造思考
+//日志系统设计优化
+https://mp.weixin.qq.com/s/AZ_ucwyF1v7KelhfxQRLkQ 
+//clickhouse替代es和mysql的日志平台方案
+http://mp.weixin.qq.com/s?__biz=MzIzODIzNzE0NQ==&mid=2654437962&idx=1&sn=cb20ee4e3e191e910698065b51b60219&chksm=f2ff46fcc588cfea3fa089467b0e7a5a93fe116f8d30edf9761284213dd126e8ebe7c2d04cef#rd
+//使用clickhouse构建通用日志系统
+https://juejin.cn/post/7130514546069864456
+//携程clickhouse日志分析实践
+https://zhuanlan.zhihu.com/p/103781296
+//唯品会clickhouse日志平台实践
+https://www.sohu.com/a/550896806_411876
