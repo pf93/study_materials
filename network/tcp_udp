@@ -7,3 +7,8 @@ https://www.programminghunter.com/article/717444809/
 
 2：基于udp实现可靠传输协议
 https://xiaolincoding.com/network/3_tcp/quic.html#quic-%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%8F%AF%E9%9D%A0%E4%BC%A0%E8%BE%93%E7%9A%84
+
+3: linux支持的最大tcp并发连接数
+https://blog.csdn.net/daocaokafei/article/details/115410761
+https://cloud.tencent.com/developer/article/1768585
+https://blog.csdn.net/shames/article/details/123851480
