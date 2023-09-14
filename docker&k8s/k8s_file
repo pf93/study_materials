@@ -30,3 +30,10 @@ https://xigang.github.io/2019/07/21/kubernetes-service/
 https://www.stackrox.io/blog/kubernetes-networking-demystified/
 # 云原生网关
 https://toutiao.io/posts/8yvquew/preview
+
+9: kubectl exec实现原理
+https://cloud.tencent.com/developer/article/1632735
+https://blog.csdn.net/weixin_30496435/article/details/112104941
+
+10: kubeedge cloudstream和edgestream实现
+https://blog.csdn.net/xialingming/article/details/109218107
