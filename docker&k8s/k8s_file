@@ -42,3 +42,6 @@ https://blog.csdn.net/xialingming/article/details/109218107
 11: k8s pod健康检查机制
 https://kuboard.cn/learning/k8s-intermediate/workload/pod-health.html#%E6%80%BB%E7%BB%93
 https://www.cnblogs.com/fengjian2016/p/17078670.html
+
+12: Kubernetes Pod 设计与实现 - 创建流程 
+https://dbwu.tech/posts/k8s/source_code/pod_create/
