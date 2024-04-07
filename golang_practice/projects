@@ -16,3 +16,12 @@ https://www.yuque.com/aceld/lfhu8y/pebesh
 //golang编程范式
 https://coolshell.cn/articles/21128.html
 
+//golang实现线程池
+https://strikefreedom.top/archives/high-performance-implementation-of-goroutine-pool
+https://www.danielhu.cn/golang-work-pool-1
+https://github.com/silvacheung/work
+https://github.com/gammazero/workerpool/blob/master/workerpool.go
+https://zhuanlan.zhihu.com/p/496652750
+https://liuqh.icu/2022/04/28/go/package/35-ants/
+https://www.textworld.cn/archives/golang
+
