@@ -48,3 +48,6 @@ https://dbwu.tech/posts/k8s/source_code/pod_create/
 
 13: controller原理
 https://cloud.tencent.com/developer/article/2239412
+
+14: scheduler源码分析
+https://github.com/pf93/notes/blob/main/kubernetes_scheduler_code.md
