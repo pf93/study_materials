@@ -46,3 +46,6 @@ http://119.23.219.145/posts/%E5%AE%B9%E5%99%A8-containerd-%E5%91%BD%E4%BB%A4%E8%
 
 5: 为何还需要linux系统作为根镜像
 https://blog.gomyck.com/2023/04/12/images/
+
+6: 容器运行时
+https://panzhongxian.cn/cn/2023/11/demystifying-containers-part-2-container-runtimes/
