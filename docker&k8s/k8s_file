@@ -64,10 +64,45 @@ https://isekiro.com/kubernetes%E6%BA%90%E7%A0%81-kubelet-%E5%8E%9F%E7%90%86%E5%9
 16: k8s与机器学习
 https://zhuanlan.zhihu.com/p/95771120
 
-17: k8s运行时
-https://medium.com/@jgshen/k8s-cri-oci-docker-cri-o%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB-82c608a3c4f0
-16: 边缘AI
+17: 边缘AI
 https://www.huaweicloud.com/lab/edgecloud/news/news_20220526.html
 
-17: k8s容器运行时
+18: k8s容器运行时
 https://medium.com/@jgshen/k8s-cri-oci-docker-cri-o%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB-82c608a3c4f0
+
+19: 云原生实践
+// 揭秘日活千万腾讯会议全量云原生化上TKE技术实践
+https://cloud.tencent.com/developer/article/1980756
+// 腾讯会议大规模使用Kubernetes的技术实践
+https://cloud.tencent.com/developer/article/1684628
+// 美团集群调度系统的云原生实践
+https://tech.meituan.com/2022/02/17/kubernetes-cloudnative-practices.html
+// 美团大规模容器集群降本增效实践
+https://www.infoq.cn/article/znvfzqnakzirpw4oyftj
+// 美团弹性伸缩系统的技术演进与落地实践
+https://tech.meituan.com/2021/04/01/hulk-kubernetes-docker-octo.html
+// Kubernetes如何改变美团的云基础设施
+https://tech.meituan.com/2020/08/13/openstack-to-kubernetes-in-meituan.html
+// 阿里云原生下的灰度体系建设
+https://developer.aliyun.com/article/783975
+// 蚂蚁大规模 Kubernetes 集群无损升级实践指南【探索篇】
+https://developer.aliyun.com/article/865432?spm=5176.26934562.main.10.5a0c3c51NLyfTE
+// B站云原生混部技术实践
+https://www.bilibili.com/read/cv18300335/
+// 百度AI原生云实践: 基于容器云打造 AI 开发基础设施
+https://cloud.baidu.com/article/293618
+// OCTO 2.0：美团基于Service Mesh的服务治理系统详解
+https://tech.meituan.com/2021/03/08/octo-2.0-service-mesh.html
+// 万字详解滴滴弹性云混部的落地历程
+https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247565889&idx=1&sn=d8644334af546d8019d8ef3055784673&chksm=fc28ace6cb5f25f0a80c9eb7fe1ef4db59e96fa1bc0d5656dc4612fe03d8ce57849fb152ef15&scene=0&xtrack=1#rd
+// 滴滴弹性云基于k8s的调度实践
+https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247566470&idx=1&sn=fcb1f051b981d94806210e59c183e988&chksm=fc28aa21cb5f2337aead71d0067708e3610c121fa27e41651e0121320298f541b3f5e86d4628&cur_album_id=3093839114065608705&scene=189#wechat_redirect
+// 滴滴技术，既要稳也要省，容器资源该怎么分配？
+https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247566790&idx=1&sn=6e1250534dfccb78936864c2b2e9ec27&chksm=fc28ab61cb5f2277e4eda0cca48874305c1ef0b3f95eb4449f091fc82d018fc12c497cb3d83f&cur_album_id=3093839114065608705&scene=189#wechat_redirect
+// 深度好文！新浪微博架构师详析微博云原生技术的思考与实践
+https://blog.csdn.net/CSDN_bang/article/details/104284678
+// 微博视频处理系统的云原生之路
+https://cloud.tencent.com/developer/article/1942311
+// 百度混部实践系列 | 如何提高 K8S 集群资源利用率？
+https://xie.infoq.cn/article/9957d77eba772ad1df0d8a474
+// 
