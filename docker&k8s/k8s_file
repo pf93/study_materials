@@ -75,6 +75,8 @@ https://medium.com/@jgshen/k8s-cri-oci-docker-cri-o%E4%B9%8B%E9%97%B4%E7%9A%84%E
 https://cloud.tencent.com/developer/article/1980756
 // 腾讯会议大规模使用Kubernetes的技术实践
 https://cloud.tencent.com/developer/article/1684628
+// 美团Kubernetes集群管理实践
+https://tech.meituan.com/2019/08/22/kubernetes-cluster-management-practice.html
 // 美团集群调度系统的云原生实践
 https://tech.meituan.com/2022/02/17/kubernetes-cloudnative-practices.html
 // 美团大规模容器集群降本增效实践
